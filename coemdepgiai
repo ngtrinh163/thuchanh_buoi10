@@ -1,0 +1,22 @@
+[
+  {
+    "cateId": 1,
+    "name": "con ếch",
+    "image": "conech.png"
+  },
+  {
+    "cateId": 1,
+    "name": "con heo",
+    "image": "conheo.png"
+  },
+  {
+    "cateId": 1,
+    "name": "con khùm",
+    "image": "conkhung.png"
+  },
+  {
+    "cateId": 1,
+    "name": "đúm",
+    "image": "dum.png"
+  }
+]
