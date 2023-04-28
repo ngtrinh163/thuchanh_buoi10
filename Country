@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hà Lan",
+    "capital": "Amsterdam",
+    "acreage": "41.850 km²",
+    "continents": "Euro",
+    "population": "17,53 triệu"
+  },
+  {
+    "name": "Hoa Kỳ",
+    "capital": "Washington, D.C",
+    "acreage": "9.834.000 km²",
+    "continents": "North America",
+    "population": "331,9 triệu"
+  },
+  {
+    "name": "Hàn Quốc",
+    "capital": "Seoul",
+    "acreage": "100.210 km²",
+    "continents": "Asia",
+    "population": "51,74 triệu"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "acreage": "103.000 km²",
+    "continents": "Euro",
+    "population": "372.520"
+  }
+]
